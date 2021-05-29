@@ -67,10 +67,11 @@
 
 ### Cкриншот ошибки
 ![Visa](https://github.com/MashaOsipova/Java1.1/blob/1d6b362368375082fad692e6b016a73039a3ea45/4716476782716823070.png)
-![American Express (AMEX)](https://github.com/MashaOsipova/Java1.1/blob/1d6b362368375082fad692e6b016a73039a3ea45/347219254707506.png)(https://github.com/MashaOsipova/Java1.1/blob/1d6b362368375082fad692e6b016a73039a3ea45/342969472785685.png)(https://github.com/MashaOsipova/Java1.1/blob/1d6b362368375082fad692e6b016a73039a3ea45/374457377017470.png)
+![American Express (AMEX)](https://github.com/MashaOsipova/Java1.1/blob/1d6b362368375082fad692e6b016a73039a3ea45/347219254707506.png)
+![](https://github.com/MashaOsipova/Java1.1/blob/1d6b362368375082fad692e6b016a73039a3ea45/342969472785685.png)![](https://github.com/MashaOsipova/Java1.1/blob/1d6b362368375082fad692e6b016a73039a3ea45/374457377017470.png)
 ![Discover](https://github.com/MashaOsipova/Java1.1/blob/1d6b362368375082fad692e6b016a73039a3ea45/6011514970957871704.png)
 ![JCB](https://github.com/MashaOsipova/Java1.1/blob/1d6b362368375082fad692e6b016a73039a3ea45/3542721464542799048.png)
-![Diners Club - Carte Blanche](https://github.com/MashaOsipova/Java1.1/blob/1d6b362368375082fad692e6b016a73039a3ea45/30262275369270.png)(https://github.com/MashaOsipova/Java1.1/blob/1d6b362368375082fad692e6b016a73039a3ea45/30283469346106.png)(https://github.com/MashaOsipova/Java1.1/blob/1d6b362368375082fad692e6b016a73039a3ea45/30453905757451.png)
+![Diners Club - Carte Blanche](https://github.com/MashaOsipova/Java1.1/blob/1d6b362368375082fad692e6b016a73039a3ea45/30262275369270.png)![](https://github.com/MashaOsipova/Java1.1/blob/1d6b362368375082fad692e6b016a73039a3ea45/30283469346106.png)![](https://github.com/MashaOsipova/Java1.1/blob/1d6b362368375082fad692e6b016a73039a3ea45/30453905757451.png)
 
 ### Окружение
 
