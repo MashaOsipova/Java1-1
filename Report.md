@@ -6,7 +6,7 @@
 
 ### В результате тестирования выявлены следующие дефекты:
 
-[Issue](https://github.com/MashaOsipova/Java1.1/blob/3b3236b0efa12ee8833060cedd1269e44c1cac55/Issue.md)
+[Issue](https://github.com/MashaOsipova/Java1.1/issues/2#issue-900682003)
 
 ### В процессе тестирования использовались следующие артефакты:
 
